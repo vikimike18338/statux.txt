@@ -1,2 +1,2 @@
-enabled=true
-message=OK
+enabled=false
+message=Script temporarily disabled.
