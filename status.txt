@@ -1,3 +1,3 @@
-enabled=false
-message=Script temporarily disabled.
+enabled=True
+message=OK
 game:HttpGet(STATUS_URL .. "?cache=" .. tick())
